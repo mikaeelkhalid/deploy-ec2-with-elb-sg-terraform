@@ -1,1 +1,1 @@
-# deploy-ec2-with-elb-sg-terraform
+# Deploy EC2 instance with Load Balancer & Security Group using Terraform
