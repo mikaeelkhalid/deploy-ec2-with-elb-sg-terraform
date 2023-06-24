@@ -1,5 +1,7 @@
 # Deploy EC2 instance with Load Balancer & Security Group using Terraform
 
+[![Mikaeel Khalid](https://badgen.now.sh/badge/by/mikaeelkhalid/purple)](#)
+
 This repo contains, how to deploy an AWS EC2 instance, connected to a load balancer and a security group.
 
 An EC2 instance is a virtual machine that runs on AWS infrastructure.
